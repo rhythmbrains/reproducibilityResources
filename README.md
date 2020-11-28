@@ -21,6 +21,9 @@ Once you know the basics, it's super insightful to learn about different practic
 
 * [Datalad handbook](http://handbook.datalad.org/en/latest/index.html) (see the [chapter](http://handbook.datalad.org/en/latest/basics/101-139-gin.html) on GIN data hosting)
 
+* Online video tutorials 
+	* [Datalad Youtube channel](https://www.youtube.com/channel/UCB8-Zf7D0DSzAsREoIt0Bvw)
+	* [Reproducing Analyses in Biological Psychology Symposium](https://www.youtube.com/watch?v=nTVcMDVlyOI&t=1546s)
 
 
 -------
